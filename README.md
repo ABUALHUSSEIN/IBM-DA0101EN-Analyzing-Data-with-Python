@@ -15,7 +15,7 @@ The course covers data wrangling, exploratory data analysis, model development, 
  2. Data Wrangling
  3. Exploratory Data Analysis 
  4. Model Development 
-| 5. Model Evaluation | [![Open In Colab](https://colab.research.google.com/drive/1vPbasjHnouCKuGK4DOTUVgRZeM-viows?usp=sharing) |
+| 5. Model Evaluation | [![Open In Colab](https://colab.research.google.com/drive/1lX9HlhqB-p4Czz82-0N-U03XUFHg1jEs?usp=sharing) |
 
 
 ---
